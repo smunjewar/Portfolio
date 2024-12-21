@@ -50,6 +50,6 @@ Created interactive dashboards with Tableau and Power BI to visualize KPIs and b
 Certifications:
 AWS Certified Solutions Architect – Associate
 Microsoft Azure Data Fundamentals
-Contact Information:GitHub Portfolio: [GitHub.com/sheetalmunjewarLinkedIn Profile: linkedin.com/in/sheetalmunjewar](https://smunjewar.github.io/Sheetal-Munjewar-Data-Science-Portfolio/)
+Contact Information:GitHub Portfolio: https://smunjewar.github.io/Portfolio/
 
 Future Goals: Aims to leverage advanced data science methodologies to create AI-driven solutions and optimize cloud-based database infrastructures. Passionate about continuous learning, Sheetal plans to explore deep learning, MLOps, and edge computing technologies to drive innovation and scalability.
