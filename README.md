@@ -47,6 +47,13 @@ Processed and analyzed large datasets using Hadoop MapReduce and Apache Spark fr
 8. Real-time Dashboard for Business Insights
 Created interactive dashboards with Tableau and Power BI to visualize KPIs and business performance metrics.
 
+9.Cold Calling Challenges in Auto Insurance
+Cold calling in auto insurance faces low conversion rates, negative customer perceptions, and high resource demands. Regulatory compliance adds complexity, risking legal penalties for violations. Limited targeting and a competitive market further reduce effectiveness.
+Modern consumers prefer digital channels over phone calls, and privacy concerns hinder data sharing. Advanced marketing technologies offer cost-effective, targeted alternatives. Shifting to personalized, data-driven strategies can improve engagement, compliance, and overall marketing success.
+
+10. Project 10
+Descriptons
+    
 Certifications:
 1.  AWS Certified Solutions Architect – Associate
 2.  Microsoft Azure Data Fundamentals
