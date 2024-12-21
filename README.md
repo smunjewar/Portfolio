@@ -48,10 +48,11 @@ Processed and analyzed large datasets using Hadoop MapReduce and Apache Spark fr
 Created interactive dashboards with Tableau and Power BI to visualize KPIs and business performance metrics.
 
 Certifications:
-AWS Certified Solutions Architect – Associate
-Microsoft Azure Data Fundamentals
+1.  AWS Certified Solutions Architect – Associate
+2.  Microsoft Azure Data Fundamentals
 
 Contact Information:
-GitHub Portfolio: https://smunjewar.github.io/Portfolio/
+1. GitHub Portfolio: https://smunjewar.github.io/Portfolio/
+2. LinkedIn - 
 
 Future Goals: Aims to leverage advanced data science methodologies to create AI-driven solutions and optimize cloud-based database infrastructures. Passionate about continuous learning, Sheetal plans to explore deep learning, MLOps, and edge computing technologies to drive innovation and scalability.
