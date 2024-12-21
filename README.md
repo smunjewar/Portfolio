@@ -1,4 +1,4 @@
-# Sheetal-Munjewar-Data-Science-Portfolio
+# Sheetal-Munjewar-Portfolio
 Sheetal MunjewarDatabase Administrator | Data Scientist | Cloud Certified Professional
 
 Professional Summary:Highly experienced from Admin background with over 20 years of expertise in managing and optimizing relational and distributed databases, including Db2, Netezza, PostgreSQL, Yugabyte, Amazon Aurora, CockroachDB, MongoDB, and Hadoop HDFS. Proficient in Python programming for scripting and automation, also skilled in Ansible and Terraform for infrastructure automation and seamless deployment.
