@@ -32,8 +32,7 @@ Installation Instructions
 
     Clone Repository:
 
-git clone <repository_url>
-cd Movie-Recommendation-System
+git clone [<repository_url>](https://github.com/smunjewar/Portfolio.git)
 
 Install Dependencies:
 
@@ -43,7 +42,6 @@ Install Dependencies:
         Place the datasets in the data/ directory.
 
 Execution Instructions
-
     Open the Jupyter Notebook:
 
 jupyter notebook
@@ -75,5 +73,5 @@ Future Improvements
 
 Contact Information
 
-    GitHub Profile: GitHub.com/sheetalmunjewar
-    LinkedIn: linkedin.com/in/sheetalmunjewar
+    GitHub Profile: https://smunjewar.github.io/Portfolio/
+    
