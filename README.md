@@ -19,40 +19,65 @@ Data Visualization and Reporting: Tableau, Power BI, Matplotlib, Seaborn
 
 Data Science Portfolio Highlights:
 
-1. Movie Recommendation System
-Developed hybrid recommendation models combining content-based filtering, collaborative filtering, and weighted ratings using Python and Surprise Library.
-Integrated data from IMDb and TMDB datasets to generate personalized movie suggestions.
-Focused on TF-IDF vectorization and cosine similarity for content matching and predictions.
+Project Title-01: Movie Recommendation System
 
-2. Predictive Analytics for Customer Retention
-Built classification models using Logistic Regression and Random Forest to predict customer churn.
-Performed EDA (Exploratory Data Analysis) and feature engineering for optimal model performance.
+Project Description:
+Developed a hybrid movie recommendation system by combining content-based filtering, collaborative filtering, and weighted ratings to offer personalized movie suggestions. Integrated IMDb and TMDB datasets, utilizing TF-IDF vectorization and cosine similarity for content matching. The model was built using Python and the Surprise Library to enhance recommendation accuracy.
+Tech Used: Python, Pandas, NumPy, Scikit-learn, Surprise Library, Matplotlib, Seaborn, TF-IDF, Cosine Similarity
 
-3. Sentiment Analysis on Social Media Data
-Analyzed Twitter data to extract sentiments using NLP techniques with Python NLTK and VADER.
-Generated insights to monitor public opinion trends.
+Project Title-02: Cold Calling Challenges in Auto Insurance
 
-4. Fraud Detection System
-Created fraud detection models using Decision Trees and Gradient Boosting Machines (GBM) to identify anomalies in transactions.
+Project Description:
+This analysis addresses the challenges of cold calling in auto insurance, highlighting issues like low conversion rates, negative perceptions, regulatory compliance risks, and shifting consumer preferences towards digital channels. The project proposes a shift to personalized, data-driven strategies to improve engagement, compliance, and marketing effectiveness.
+Tech Used: Python, Pandas, Tableau, Excel, Market Research Tools, Statistical Analysis
 
-5. Time Series Forecasting for Sales Data
-Developed forecasting models using ARIMA and LSTM to predict sales trends and improve inventory management.
+Project Title-03: Analysis of Indian Premier League (IPL) Matches (2008-2019)
 
-6. Customer Segmentation using Clustering
-Implemented K-means and Hierarchical Clustering for segmenting customers based on purchasing behavior.
+Project Description:
+Performed an in-depth analysis of 751 IPL matches played between 2008 and 2019 using ball-by-ball data from Kaggle. Focused on team performance, player statistics, match outcomes, and scoring trends. The project uncovered insights into strategies and performance patterns valuable for cricket enthusiasts and analysts.
+Tech Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Kaggle Datasets, Tableau, Statistical Analysis
 
-7. Big Data Analysis with Hadoop and Spark
-Processed and analyzed large datasets using Hadoop MapReduce and Apache Spark frameworks.
+Project Title-04: The Future of Electric Vehicles (EVs)
 
-8. Real-time Dashboard for Business Insights
-Created interactive dashboards with Tableau and Power BI to visualize KPIs and business performance metrics.
+Project Description:
+Explored the growth of Electric Vehicles (EVs) and their benefits, challenges, and technological advancements. The project utilized Hive, PySpark, and MQT to analyze data and uncover patterns that drive EV adoption, including battery technology improvements and government incentives.
+Tech Used: Hive, PySpark, MQT, SQL, Tableau, Power BI, Data Analysis
 
-9. Cold Calling Challenges in Auto Insurance - 
-Cold calling in auto insurance faces low conversion rates, negative customer perceptions, and high resource demands. Regulatory compliance adds complexity, risking legal penalties for violations. Limited targeting and a competitive market further reduce effectiveness.
-Modern consumers prefer digital channels over phone calls, and privacy concerns hinder data sharing. Advanced marketing technologies offer cost-effective, targeted alternatives. Shifting to personalized, data-driven strategies can improve engagement, compliance, and overall marketing success.
+Project Title-05: City-Wise Analysis of Rising Kia and Hyundai Theft Rates
 
-10. Project 10
-Descriptons
+Project Description:
+Analyzed the increasing rates of Kia and Hyundai vehicle thefts across major U.S. cities. Using data visualization and statistical analysis, the project provided insights into theft patterns, identifying potential causes and recommending preventive measures for law enforcement agencies.
+Tech Used: Python, Pandas, Matplotlib, Seaborn, Power BI, Tableau, GeoPandas, Risk Analysis Tools
+
+Project Title-06: Analyzing White House Visitor Logs: Trends and Insights
+
+Project Description:
+Visualized and analyzed White House visitor logs to uncover patterns in visitation frequencies. The project focused on the influence of lobbyists and corporate executives on policymaking, providing valuable insights for researchers and policymakers regarding transparency and governance.
+Tech Used: Python, Pandas, Matplotlib, Seaborn, Tableau, SQL, Log Analysis Tools
+
+Project Title-07: Raising Awareness About Lottery Risks for Low-Income Families
+
+Project Description:
+This community outreach project aimed to educate low-income families about the risks of lottery addiction through workshops, seminars, and PowerPoint presentations. The project used visual aids and guest speakers specializing in financial literacy and addiction prevention to foster long-term financial stability.
+Tech Used: PowerPoint, Excel, Canva, Workshop Design Tools, Community Outreach Platforms
+
+Project Title-08: Car Price Prediction Using Machine Learning
+
+Project Description:
+Developed a machine learning model to predict car prices based on features such as year, manufacturer, model, and type. The project involved data collection, preprocessing, exploratory data analysis (EDA), and model training to help stakeholders make data-driven pricing decisions in the automotive industry.
+Tech Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Excel, Data Preprocessing, EDA
+
+Project Title-09: Placeholder for Term Project 2
+
+Project Description:
+To be filled in
+Tech Used: To be filled in
+
+Project Title-10: Placeholder for Term Project 3
+
+Project Description:
+To be filled in
+Tech Used: To be filled in
     
 Certifications:
 1.  AWS Certified Solutions Architect – Associate
