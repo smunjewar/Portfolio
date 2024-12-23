@@ -1,77 +1,73 @@
-Movie Recommendation System
+Cold Calls for Auto Insurance
 
-Author: Sheetal Munjewar
-Course: Bellevue University - DSC550
 Project Overview
 
-This project implements a Movie Recommendation System using content-based filtering, collaborative filtering, and a hybrid model approach. It leverages datasets from Grouplens.org and Kaggle.com to provide personalized movie suggestions based on user preferences.
-Features
+This project focuses on analyzing and improving cold call strategies for auto insurance marketing. 
+It evaluates datasets to identify key factors influencing customer behavior and builds machine learning models 
+to predict responses to marketing campaigns.
 
-    Content-Based Filtering - Recommends movies using features like genres, overview, and tagline with cosine similarity.
-    Collaborative Filtering - Predicts ratings based on user behavior and similar preferences using the Surprise Library.
-    Hybrid Model - Combines content-based and collaborative filtering for enhanced recommendations.
+Dataset
+Source: Kaggle - Car Insurance Cold Calls Dataset
 
-Requirements - 
+Features: Customer demographics, previous interactions, and campaign-specific attributes.
 
-Make sure you have the following installed:
+Goal: Predict the likelihood of a customer purchasing auto insurance based on cold call interactions.
 
-    Python 3.x
-    Pandas
-    NumPy
-    Scikit-learn
-    Surprise Library
-    Matplotlib
-    Jupyter Notebook or any IDE supporting Python
+Requirements - Python 3.x
 
-Dataset Sources
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-    Ratings Data: Grouplens
-    Movie Metadata: Kaggle
+Installation
 
-Installation Instructions
+Clone the repository:
 
-    Clone Repository:
+git clone <repository_url>
+cd cold-calls-auto-insurance
 
-git clone [<repository_url>](https://github.com/smunjewar/Portfolio.git)
+Install dependencies:
 
-Install Dependencies:
+pip install -r requirements.txt
 
-    pip install -r requirements.txt
-
-    Download Datasets:
-        Place the datasets in the data/ directory.
+Download the dataset and save it in the data/ directory.
 
 Execution Instructions
-    Open the Jupyter Notebook:
+
+Open Jupyter Notebook:
 
 jupyter notebook
 
-Navigate to the project notebook:
+Run the notebook cold_calls_analysis.ipynb step-by-step to preprocess data, train models, and evaluate performance.
 
-    Movie_Recommendation_System.ipynb
+Models Evaluated
 
-    Follow the steps inside the notebook to load datasets, preprocess data, and build models.
+K-Nearest Neighbors (KNN) - Accuracy: 76%
 
-File Descriptions
+Logistic Regression - Accuracy: 79%
 
-    movie_recommendation.ipynb - Contains the main code and model implementation.
-    data/ - Folder to store datasets.
-    models/ - Folder to save pre-trained models.
-    README.md - Project instructions and documentation.
+Naive Bayes Classifier - Accuracy: 71%
+
+Random Forest - Accuracy: 81% (Preferred Model)
 
 Results
 
-    Developed multiple recommendation models, including content-based and collaborative filtering.
-    Achieved 93% accuracy with collaborative filtering.
-    Built a hybrid model integrating weighted ratings and collaborative filtering for improved recommendations.
+Random Forest demonstrated the highest accuracy at 81%, making it the preferred model.
+
+Key insights were derived, showing age, job, and balance as significant predictors.
 
 Future Improvements
 
-    Incorporate deep learning techniques for enhanced predictions.
-    Optimize scalability for larger datasets.
-    Implement real-time recommendation features.
+Feature engineering to enhance model accuracy.
 
-Contact Information
+Experimenting with advanced ensemble methods.
 
-    GitHub Profile: https://smunjewar.github.io/Portfolio/
-    
+Visualizing decision boundaries for improved interpretability.
+
+Contact
+
+GitHub: https://smunjewar.github.io/Portfolio
+
+LinkedIn: linkedin.com/in/sheetalmunjewar
+
+Acknowledgements
+
+Data sourced from Technical University of Munich (TUM) and Kaggle's Car Insurance Cold Calls Dataset.

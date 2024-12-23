@@ -1,5 +1,6 @@
-# Sheetal-Munjewar-Portfolio
-Sheetal MunjewarDatabase Administrator | Data Scientist | Cloud Certified Professional
+# Sheetal-Munjewar
+
+Sheetal Munjewar | Database Architech | Data Scientist | Cloud Certified Professional
 
 Professional Summary:Highly experienced from Admin background with over 20 years of expertise in managing and optimizing relational and distributed databases, including Db2, Netezza, PostgreSQL, Yugabyte, Amazon Aurora, CockroachDB, MongoDB, and Hadoop HDFS. Proficient in Python programming for scripting and automation, also skilled in Ansible and Terraform for infrastructure automation and seamless deployment.
 
@@ -78,13 +79,14 @@ Project Title-10: Placeholder for Term Project 3
 Project Description:
 To be filled in
 Tech Used: To be filled in
-    
+
 Certifications:
 1.  AWS Certified Solutions Architect – Associate
 2.  Microsoft Azure Data Fundamentals
 
 Contact Information:
 1. GitHub Portfolio: https://smunjewar.github.io/Portfolio/
-2. LinkedIn - 
+2. LinkedIn - www.linkedin.com/in/sheetal-munjewar
+
 
 Future Goals: Aims to leverage advanced data science methodologies to create AI-driven solutions and optimize cloud-based database infrastructures. Passionate about continuous learning, Sheetal plans to explore deep learning, MLOps, and edge computing technologies to drive innovation and scalability.
