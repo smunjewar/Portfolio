@@ -1,5 +1,10 @@
 title: Sheetal Munjewar
 logo: /assets/img/sheetal.jpg
-description: Data Science Protfolio
+description: Data Science Portfolio
 show_downloads: true
-theme: jekyll-theme-minimal  
+theme: jekyll-theme-minimal
+
+contact:
+  linkedin: "https://www.linkedin.com/in/sheetal-munjewar"
+  github: "https://smunjewar.github.io/Portfolio"
+  email: "smunjewar@gmail.com"  
