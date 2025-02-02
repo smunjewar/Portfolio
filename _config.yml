@@ -4,36 +4,7 @@ description: Data Science Portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
 
-# Navigation Menu
-navbar:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /projects
-  - title: Blog
-    url: /blog
-  - title: Contact
-    url: /contact
-
-# Contact Information
 contact:
   linkedin: "https://www.linkedin.com/in/sheetal-munjewar"
-  github: "https://github.com/smunjewar"
-  portfolio: "https://smunjewar.github.io/Portfolio"
+  github: "https://smunjewar.github.io/Portfolio"
   email: "smunjewar@gmail.com"
-
-# Social Media
-social:
-  twitter: "https://twitter.com/yourhandle"
-  kaggle: "https://www.kaggle.com/yourprofile"
-
-# SEO Settings
-seo:
-  keywords: "Data Science, Machine Learning, AI, Portfolio"
-  author: "Sheetal Munjewar"
-  description: "A showcase of my work in Data Science, Machine Learning, and AI."
-
-# Footer Settings
-footer:
-  show_social_icons: true
-  copyright: "© 2024 Sheetal Munjewar. All rights reserved."
