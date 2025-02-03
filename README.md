@@ -32,6 +32,16 @@ Focus on machine learning, big data technologies, predictive analytics, and data
 
 ## Data Science Projects  
 
+### Image Segmentation 
+Image segmentation allows machines to interpret visual data by dividing images into meaningful segments, mimicking human perception. This technology is vital in fields like medical imaging, autonomous vehicles, and satellite analysis, where precise object detection is crucial. Our project trains a **U-Net** model on a dataset with 20 object classes to generate accurate object masks and borders. By leveraging convolutional neural networks, the model enhances AI-driven decision-making, improving accuracy in real-world applications such as tumor identification, traffic signal detection, and object localization.
+Technologies: 
+  Deep Learning Frameworks: TensorFlow, Keras
+  Neural Network Architectures: U-Net, MobileNetV2, Pix2Pix (GAN)
+  Programming & Data Handling: Python, NumPy, Pandas
+  Computer Vision Libraries: OpenCV, Scikit-Image
+  Visualization Tools: Matplotlib, Seaborn
+  Hardware Acceleration: GPU (CUDA, TensorRT) for faster model training
+
 ### Movie Recommendation System  
 Developed a hybrid recommendation model integrating content-based and collaborative filtering techniques. Used IMDb and TMDB datasets to enhance prediction accuracy.  
 Technologies: Python, Pandas, NumPy, Scikit-learn, Surprise Library, TF-IDF  
